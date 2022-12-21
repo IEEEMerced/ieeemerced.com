@@ -1,0 +1,153 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+    font-family: sans-serif;
+}
+
+body {
+    margin: 0;
+    font-size: 14px;
+    color: #333;
+    background-color: #fff;
+}
+
+@media (prefers-color-scheme: dark) {
+    body {
+        margin: 0;
+        font-size: 14px;
+        color: #fff;
+        background-color: #333;    
+    }
+}
+
+.navbar {
+    display: block;
+    width: 100%;
+    background-color: #0066A1;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar-logo {
+    display: flex;
+    align-items: center;
+    padding: 24px 50px;
+}
+
+.navbar-logo img {
+    height: 40px;
+    vertical-align: middle;
+}
+
+.ieeekite {
+    content: url("img/IEEEkitewhite.svg");
+}
+
+@media (prefers-color-scheme: dark) {
+    .ieeekite {
+        content: url("img/IEEEkitewhite.svg");
+    }
+}
+
+.navbar-logo span {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 15pt;
+    color: #fff;
+}
+
+@media (prefers-color-scheme: dark) {
+    .navbar-logo span {
+        font-family: Helvetica, sans-serif;
+        font-weight: bold;
+        padding: 10px;
+        font-size: 15pt;
+        color: #fff;
+    }
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0px auto;
+    background-color: transparent;
+    padding: 40px;
+}
+
+.footer {
+    position: relative;
+    display: block;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    background-color: #0066A1;
+    color: white;
+    text-align: center;
+    height: 70px;
+    padding: 20px 50px 0px 50px;
+}
+
+.footer ul {
+    float:right;
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    width:auto;
+    display: flex;
+}
+
+.footer ul li {
+    padding-left: 15px;
+}
+
+.footer ul li span{
+    vertical-align: middle;
+    display: inline-block;
+    height: 100%;
+}
+
+.footer ul img {
+    vertical-align: middle;
+    width: 35px;
+}
+
+.footer ul li a:hover {
+    opacity: 90%;
+}
+
+.discord {
+    content: url("img/discordwhite.svg");
+}
+
+@media (prefers-color-scheme: dark) {
+    .discord {
+        content: url("img/discordwhite.svg");
+    }
+}
+
+.github {
+    content: url("img/githubwhite.svg");
+}
+
+@media (prefers-color-scheme: dark) {
+    .github {
+        content: url("img/githubwhite.svg");
+    }
+}
+
+.footer .copyright {
+    margin-top: 5px;
+    float: left;
+    vertical-align: middle;
+}
+
+@media (prefers-color-scheme: dark) {
+    .footer .copyright {
+        margin-top: 5px;
+        float: left;
+        vertical-align: middle;
+    }
+}
