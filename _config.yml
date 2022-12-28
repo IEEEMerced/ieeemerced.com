@@ -1,0 +1,8 @@
+title: IEEE at UC Merced
+baseurl: "" #
+url: "https://staging.ieeemerced.com/"
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: tortotubus/ieeemerced-jekyll-theme  
