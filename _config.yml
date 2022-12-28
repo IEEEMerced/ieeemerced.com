@@ -5,5 +5,4 @@ url: "https://staging.ieeemerced.com/"
 plugins:
   - jekyll-remote-theme
 
-remote_theme: tortotubus/ieeemerced-jekyll-theme@dev
-  
+remote_theme: tortotubus/ieeemerced-jekyll-theme  
