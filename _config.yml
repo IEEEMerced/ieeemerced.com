@@ -1,0 +1,8 @@
+title: IEEE at UC Merced
+baseurl: "" #
+url: "https://ieeemerced.com/"
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: IEEEMerced/ieeemerced-jekyll-theme  
