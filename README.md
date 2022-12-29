@@ -1,8 +1,8 @@
 # ieeemerced.com
 
-This repository holds the source code for our [website](https://ieeemerced.com/). It is currrently hosted using github pages, though it could be trivially hosted elsewhere, since it is a static website generated using [jekyll](https://jekyllrb.com).
+This repository holds the source code for our [website](https://ieeemerced.com/). It is currrently hosted using github pages, though it could be trivially hosted elsewhere, since it is a static website generated using [Jekyll](https://jekyllrb.com).
 
-Please note that the [jekyll theme](https://github.com/IEEEMerced/ieeemerced-jekyl-theme/) we use is hosted in a seperate repo and that this repo is mostly intended to contain content specific to our site. 
+Please note that the [Jekyll theme](https://github.com/IEEEMerced/ieeemerced-jekyll-theme) we use is hosted in a seperate repo and that this repo is mostly intended to contain content specific to our site. 
 
 ## Building
 
@@ -49,7 +49,7 @@ export PATH="$HOME/.gems/bin:$PATH"
 Next, execute your current `~/.bashrc` using
 
 ```
-source ~/.basrc
+source ~/.bashrc
 ```
 
 ### Install Jekyll and Bundler
@@ -78,4 +78,4 @@ The website should now be live at [localhost:4000](http://127.0.0.1:4000/).
 
 ## Contributing
 
-If you would like to help with this website, either internally or externally, please clone or fork the repo and submit any changes to the staging branch here. If you find any issues, feel free to report them [here])(https://github.com/IEEEMerced/ieeemerced.com/issues/new).
+If you would like to help with this website, either internally or externally, please clone or fork the repo and submit any changes to the staging branch here. If you find any issues, feel free to report them [here](https://github.com/IEEEMerced/ieeemerced.com/issues/new).
