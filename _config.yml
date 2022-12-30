@@ -21,7 +21,7 @@ twitter:
   username: IEEEMerced
 
 baseurl: ""
-url: "https://ieeemerced.com/"
+url: "https://ieeemerced.com"
 
 plugins:
   - jekyll-remote-theme
