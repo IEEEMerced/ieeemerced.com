@@ -27,6 +27,10 @@ google_analytics: G-B4T5SC5Y9L
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
 
 remote_theme: IEEEMerced/ieeemerced-jekyll-theme
 
