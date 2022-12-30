@@ -1,5 +1,32 @@
 title: IEEE at UC Merced
-baseurl: "" #
+description: >
+  We are a student organization created with the aim 
+  to provide engineers with technical, social, and 
+  professional development outside the classroom.
+
+meta:
+  opengraph:
+    url: https://ieeemeced.com/
+    type: website
+    image: /assets/img/meta1.jpg
+    title: IEEE at UC Merced
+    description: >
+      We are a student organization created with the aim 
+      to provide engineers with technical, social, and 
+      professional development outside the classroom.
+
+  twitter:
+    card: summary_large_image
+    domain: ieeemerced.com
+    url: https://ieeemerced.com/
+    image: /assets/img/twitter1.jpg
+    title: IEEE at UC Merced
+    description: >
+      We are a student organization created with the aim 
+      to provide engineers with technical, social, and 
+      professional development outside the classroom.
+
+baseurl: ""
 url: "https://ieeemerced.com/"
 
 plugins:
