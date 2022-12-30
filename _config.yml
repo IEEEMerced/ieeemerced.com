@@ -32,4 +32,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/img/meta1.jpg
+      image: assets/img/meta1.jpg
