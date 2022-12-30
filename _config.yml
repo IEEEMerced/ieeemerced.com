@@ -23,6 +23,8 @@ twitter:
 baseurl: ""
 url: "https://ieeemerced.com"
 
+google_analytics: G-B4T5SC5Y9L
+
 plugins:
   - jekyll-remote-theme
 
