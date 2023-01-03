@@ -1,0 +1,3 @@
+[submodule "ieeemerced-posts"]
+	path = _posts
+	url = git@github.com:IEEEMerced/ieeemerced-posts
